@@ -6,11 +6,11 @@ Desenvolvido uma aplicação na linguagem Java para controlar uma Play List, usa
 **Objeto: Música**
 
 Exemplo:
-Faixa: 01
-Título:  Control
-Artista: Zoe Wees
-Período: 2022
-Link: https://www.youtube.com/watch?v=UrGS_6_HglU
+- Faixa: 01
+- Título:  Control
+- Artista: Zoe Wees
+- Período: 2022
+- Link: https://www.youtube.com/watch?v=UrGS_6_HglU
  
 _A aplicação permite:_
 
