@@ -1,7 +1,7 @@
-## Exercício de Estrutura de Dados -- PLAY LIST 
+## PLAY LIST -- Exercício de Estrutura de Dados 
 *AULA 10 dia 17.10* 
 
-Desenvolver uma aplicação na linguagem Java para controlar uma Play List, usando o conceito de Lista Duplamente Encadeada:
+Desenvolvido uma aplicação na linguagem Java para controlar uma Play List, usando o conceito de Lista Duplamente Encadeada:
 
 **Objeto: Música**
 
@@ -13,7 +13,6 @@ Período: 2022
 Link: https://www.youtube.com/watch?v=UrGS_6_HglU
  
 _A aplicação permite:_
-
 
 - Adicionar música
 - Exibir as músicas 
